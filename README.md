@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Networking and connecting with like minded people.**
 
-- 👨‍💻 All of my projects are available at [https://ifrahcodes.netlify.app](www.ifrahcodes.netlify.app)
+- 👨‍💻 All of my projects are available at [https://ifrahcodes.netlify.app/](www.ifrahcodes.netlify.app)
 
 - 📝 I regularly tweet my coding frustrations on twitter [@ifrahcodes](@ifrahcodes)
 
