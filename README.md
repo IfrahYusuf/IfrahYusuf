@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ifrahcodes" target="blank"><img src="https://img.shields.io/twitter/follow/ifrahcodes?logo=twitter&style=for-the-badge" alt="ifrahcodes" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancing and building API Applications.**
+- 🔭 I’m currently working on **Freelancing projects and building API Applications.**
 
 - 🌱 I’m currently learning **Node and Express.js**
 
