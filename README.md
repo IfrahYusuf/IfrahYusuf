@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm My name Ifrah and I like to code, hence the name IfrahCodes</h1>
+<h1 align="center">Hi everyone 👋, I'm My name Ifrah Yusuf</h1>
 <h3 align="center">I am a passionate Software Engineer with a very keen eye for detail.</h3>
 
 <p align="left"> <a href="https://twitter.com/ifrahcodes" target="blank"><img src="https://img.shields.io/twitter/follow/ifrahcodes?logo=twitter&style=for-the-badge" alt="ifrahcodes" /></a> </p>
