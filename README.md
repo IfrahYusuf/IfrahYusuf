@@ -1,4 +1,4 @@
-![ ](https://github.com/IfrahYusuf/readme/commit/cd5415551f6f19c8d28e210168b2b8eeac5aab9e#diff-3cc6ea882e0b80ea40efea764aba7ad88f6bee0ef59aa576bc1bae8757d29cf0)
+<img src="https://github.com/IfrahYusuf/readme/commit/c5b5922ed74213aa8360d034000ec57d434fb34a#diff-93ad17a8147c2c14a1baf1812481559734e5eb15bccde948b9aeaf7c382c6d83" alt="my banner">
 <h1 align="center">Hi Everyone 👋, My name Ifrah</h1>
 <h3 align="center">I am a passionate Software Engineer with a very keen eye for detail.</h3>
 
