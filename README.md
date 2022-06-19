@@ -1,5 +1,5 @@
 <img src="banner2.png" alt="my banner">
-<h3 align="center">I am a passionate Software Engineer with a very keen eye for detail.</h3>
+<h4>Software Engineer with a keen eye for detail and a background in Education. Looking to work in a team of like-minded engineers to create software that brings about change.</h4>
 
 <p align="left"> <a href="https://twitter.com/ifrahcodes" target="blank"><img src="https://img.shields.io/twitter/follow/ifrahcodes?logo=twitter&style=for-the-badge" alt="ifrahcodes" /></a> </p>
 
