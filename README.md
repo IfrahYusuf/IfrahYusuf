@@ -46,7 +46,7 @@
       <h3 align="center">99 Names Of Allah APP</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="#" width="100%"  alt="App"/>
+            <img src="Untitled (1077 × 610px) (2).gif" width="100%"  alt="App"/>
         </a>
         <br />
         <p align="center">
@@ -54,7 +54,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://99namesgenerator.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
