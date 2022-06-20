@@ -84,7 +84,7 @@
       <h3 align="center">Weather APP</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt="APP"/>
+          <img src="weather.gif" width="100%" alt="APP"/>
         </a>
         <br />
         <p align="center">
