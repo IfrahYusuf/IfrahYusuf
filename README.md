@@ -28,7 +28,7 @@
       <h3 align="center">Salon Website</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="#" width="100%" alt="App"/>
+            <img src="Untitled (1077 × 610px) (3).gif" width="100%" alt="App"/>
         </a>
         <br />
         <p align="center">
