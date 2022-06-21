@@ -25,7 +25,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Bored APP</h3>
+      <h3 align="center">Salon Website</h3>
         <br />
         <a target="_blank" href="#">
             <img src="#" width="100%" alt="App"/>
@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3 & JavaScript</strong> - This is a fun API application I created using an API URL from Bored.com/api. Users have a choice to generate a random activity at each click with the option to refresh back to the home page. </p>
+        <p><strong>HTML5, CSS3 & JavaScript</strong> - This is a responsive website created using HTML markup and CSS for a curly hair salon. The design is sleek and modern and the website does a good job of showcasing all the brilliant services available. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">99 Names Of Allah APP</h3>
